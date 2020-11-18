@@ -1,0 +1,4 @@
+﻿  Project 5.4.cpp
+C:\Users\User\source\repos\Project 5.4\Project 5.4\Project 5.4.cpp(1,1): warning C4335: Обнаружен файл в формате Mac: преобразуйте исходный файл в формат DOS или UNIX
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\User\source\repos\Project 5.4\Debug\Project 5.4.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
